@@ -1,0 +1,10 @@
+{
+    "name": "ybbdapp",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible"
+    }
+}
